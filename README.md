@@ -1,2 +1,4 @@
-# Sales-Analysis
-Analyze Acme Co.’s 2014–2018 sales data to identify key revenue and profit drivers across products, channels, and regions; uncover seasonal trends and outliers; and align performance against budgets. Use these insights to optimize pricing, promotions, and market expansion for sustainable growth and reduced concentration risk.
+# Data Analytics in Sales Domain
+# Overview
+This project focuses on applying data analytics techniques to the sales domain. The goal is to derive insights that can help improve sales performance and drive business strategies.
+
